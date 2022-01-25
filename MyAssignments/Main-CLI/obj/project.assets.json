@@ -1,0 +1,323 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {
+      "Exercise1/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/Exercise1.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Exercise1.dll": {}
+        }
+      },
+      "Exercise11/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/Exercise11.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Exercise11.dll": {}
+        }
+      },
+      "Exercise12/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/Exercise12.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Exercise12.dll": {}
+        }
+      },
+      "Exercise13/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/Exercise13.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Exercise13.dll": {}
+        }
+      },
+      "Exercise14/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/Exercise14.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Exercise14.dll": {}
+        }
+      },
+      "Exercise16/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/Exercise16.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Exercise16.dll": {}
+        }
+      },
+      "Exercise17/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/Exercise17.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Exercise17.dll": {}
+        }
+      },
+      "Exercise2/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/Exercise2.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Exercise2.dll": {}
+        }
+      },
+      "Exercise3/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/Exercise3.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Exercise3.dll": {}
+        }
+      },
+      "Exercise4/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/Exercise4.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Exercise4.dll": {}
+        }
+      },
+      "Exercise5/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/Exercise5.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Exercise5.dll": {}
+        }
+      },
+      "Exercise6/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/Exercise6.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Exercise6.dll": {}
+        }
+      },
+      "Exercise7/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/Exercise7.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Exercise7.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exercise1/1.0.0": {
+      "type": "project",
+      "path": "../Exercise1/Exercise1.csproj",
+      "msbuildProject": "../Exercise1/Exercise1.csproj"
+    },
+    "Exercise11/1.0.0": {
+      "type": "project",
+      "path": "../Exercise11/Exercise11.csproj",
+      "msbuildProject": "../Exercise11/Exercise11.csproj"
+    },
+    "Exercise12/1.0.0": {
+      "type": "project",
+      "path": "../Exercise12/Exercise12.csproj",
+      "msbuildProject": "../Exercise12/Exercise12.csproj"
+    },
+    "Exercise13/1.0.0": {
+      "type": "project",
+      "path": "../Exercise13/Exercise13.csproj",
+      "msbuildProject": "../Exercise13/Exercise13.csproj"
+    },
+    "Exercise14/1.0.0": {
+      "type": "project",
+      "path": "../Exercise14/Exercise14.csproj",
+      "msbuildProject": "../Exercise14/Exercise14.csproj"
+    },
+    "Exercise16/1.0.0": {
+      "type": "project",
+      "path": "../Exercise16/Exercise16.csproj",
+      "msbuildProject": "../Exercise16/Exercise16.csproj"
+    },
+    "Exercise17/1.0.0": {
+      "type": "project",
+      "path": "../Exercise17/Exercise17.csproj",
+      "msbuildProject": "../Exercise17/Exercise17.csproj"
+    },
+    "Exercise2/1.0.0": {
+      "type": "project",
+      "path": "../Exercise2/Exercise2.csproj",
+      "msbuildProject": "../Exercise2/Exercise2.csproj"
+    },
+    "Exercise3/1.0.0": {
+      "type": "project",
+      "path": "../Exercise3/Exercise3.csproj",
+      "msbuildProject": "../Exercise3/Exercise3.csproj"
+    },
+    "Exercise4/1.0.0": {
+      "type": "project",
+      "path": "../Exercise4/Exercise4.csproj",
+      "msbuildProject": "../Exercise4/Exercise4.csproj"
+    },
+    "Exercise5/1.0.0": {
+      "type": "project",
+      "path": "../Exercise5/Exercise5.csproj",
+      "msbuildProject": "../Exercise5/Exercise5.csproj"
+    },
+    "Exercise6/1.0.0": {
+      "type": "project",
+      "path": "../Exercise6/Exercise6.csproj",
+      "msbuildProject": "../Exercise6/Exercise6.csproj"
+    },
+    "Exercise7/1.0.0": {
+      "type": "project",
+      "path": "../Exercise7/Exercise7.csproj",
+      "msbuildProject": "../Exercise7/Exercise7.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0": [
+      "Exercise1 >= 1.0.0",
+      "Exercise11 >= 1.0.0",
+      "Exercise12 >= 1.0.0",
+      "Exercise13 >= 1.0.0",
+      "Exercise14 >= 1.0.0",
+      "Exercise16 >= 1.0.0",
+      "Exercise17 >= 1.0.0",
+      "Exercise2 >= 1.0.0",
+      "Exercise3 >= 1.0.0",
+      "Exercise4 >= 1.0.0",
+      "Exercise5 >= 1.0.0",
+      "Exercise6 >= 1.0.0",
+      "Exercise7 >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\souvikdas02\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\souvikdas02\\source\\repos\\MyAssignments\\Main-CLI\\Main-CLI.csproj",
+      "projectName": "Main-CLI",
+      "projectPath": "C:\\Users\\souvikdas02\\source\\repos\\MyAssignments\\Main-CLI\\Main-CLI.csproj",
+      "packagesPath": "C:\\Users\\souvikdas02\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\souvikdas02\\source\\repos\\MyAssignments\\Main-CLI\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\souvikdas02\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {
+            "C:\\Users\\souvikdas02\\source\\repos\\MyAssignments\\Exercise11\\Exercise11.csproj": {
+              "projectPath": "C:\\Users\\souvikdas02\\source\\repos\\MyAssignments\\Exercise11\\Exercise11.csproj"
+            },
+            "C:\\Users\\souvikdas02\\source\\repos\\MyAssignments\\Exercise12\\Exercise12.csproj": {
+              "projectPath": "C:\\Users\\souvikdas02\\source\\repos\\MyAssignments\\Exercise12\\Exercise12.csproj"
+            },
+            "C:\\Users\\souvikdas02\\source\\repos\\MyAssignments\\Exercise13\\Exercise13.csproj": {
+              "projectPath": "C:\\Users\\souvikdas02\\source\\repos\\MyAssignments\\Exercise13\\Exercise13.csproj"
+            },
+            "C:\\Users\\souvikdas02\\source\\repos\\MyAssignments\\Exercise14\\Exercise14.csproj": {
+              "projectPath": "C:\\Users\\souvikdas02\\source\\repos\\MyAssignments\\Exercise14\\Exercise14.csproj"
+            },
+            "C:\\Users\\souvikdas02\\source\\repos\\MyAssignments\\Exercise16\\Exercise16.csproj": {
+              "projectPath": "C:\\Users\\souvikdas02\\source\\repos\\MyAssignments\\Exercise16\\Exercise16.csproj"
+            },
+            "C:\\Users\\souvikdas02\\source\\repos\\MyAssignments\\Exercise17\\Exercise17.csproj": {
+              "projectPath": "C:\\Users\\souvikdas02\\source\\repos\\MyAssignments\\Exercise17\\Exercise17.csproj"
+            },
+            "C:\\Users\\souvikdas02\\source\\repos\\MyAssignments\\Exercise1\\Exercise1.csproj": {
+              "projectPath": "C:\\Users\\souvikdas02\\source\\repos\\MyAssignments\\Exercise1\\Exercise1.csproj"
+            },
+            "C:\\Users\\souvikdas02\\source\\repos\\MyAssignments\\Exercise2\\Exercise2.csproj": {
+              "projectPath": "C:\\Users\\souvikdas02\\source\\repos\\MyAssignments\\Exercise2\\Exercise2.csproj"
+            },
+            "C:\\Users\\souvikdas02\\source\\repos\\MyAssignments\\Exercise3\\Exercise3.csproj": {
+              "projectPath": "C:\\Users\\souvikdas02\\source\\repos\\MyAssignments\\Exercise3\\Exercise3.csproj"
+            },
+            "C:\\Users\\souvikdas02\\source\\repos\\MyAssignments\\Exercise4\\Exercise4.csproj": {
+              "projectPath": "C:\\Users\\souvikdas02\\source\\repos\\MyAssignments\\Exercise4\\Exercise4.csproj"
+            },
+            "C:\\Users\\souvikdas02\\source\\repos\\MyAssignments\\Exercise5\\Exercise5.csproj": {
+              "projectPath": "C:\\Users\\souvikdas02\\source\\repos\\MyAssignments\\Exercise5\\Exercise5.csproj"
+            },
+            "C:\\Users\\souvikdas02\\source\\repos\\MyAssignments\\Exercise6\\Exercise6.csproj": {
+              "projectPath": "C:\\Users\\souvikdas02\\source\\repos\\MyAssignments\\Exercise6\\Exercise6.csproj"
+            },
+            "C:\\Users\\souvikdas02\\source\\repos\\MyAssignments\\Exercise7\\Exercise7.csproj": {
+              "projectPath": "C:\\Users\\souvikdas02\\source\\repos\\MyAssignments\\Exercise7\\Exercise7.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

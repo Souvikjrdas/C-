@@ -1,0 +1,12 @@
+C:\Users\souvikdas02\source\repos\MyAssignments\Exercise6\bin\Debug\net5.0\Exercise6.deps.json
+C:\Users\souvikdas02\source\repos\MyAssignments\Exercise6\bin\Debug\net5.0\Exercise6.dll
+C:\Users\souvikdas02\source\repos\MyAssignments\Exercise6\bin\Debug\net5.0\ref\Exercise6.dll
+C:\Users\souvikdas02\source\repos\MyAssignments\Exercise6\bin\Debug\net5.0\Exercise6.pdb
+C:\Users\souvikdas02\source\repos\MyAssignments\Exercise6\obj\Debug\net5.0\Exercise6.csproj.AssemblyReference.cache
+C:\Users\souvikdas02\source\repos\MyAssignments\Exercise6\obj\Debug\net5.0\Exercise6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\souvikdas02\source\repos\MyAssignments\Exercise6\obj\Debug\net5.0\Exercise6.AssemblyInfoInputs.cache
+C:\Users\souvikdas02\source\repos\MyAssignments\Exercise6\obj\Debug\net5.0\Exercise6.AssemblyInfo.cs
+C:\Users\souvikdas02\source\repos\MyAssignments\Exercise6\obj\Debug\net5.0\Exercise6.csproj.CoreCompileInputs.cache
+C:\Users\souvikdas02\source\repos\MyAssignments\Exercise6\obj\Debug\net5.0\Exercise6.dll
+C:\Users\souvikdas02\source\repos\MyAssignments\Exercise6\obj\Debug\net5.0\ref\Exercise6.dll
+C:\Users\souvikdas02\source\repos\MyAssignments\Exercise6\obj\Debug\net5.0\Exercise6.pdb

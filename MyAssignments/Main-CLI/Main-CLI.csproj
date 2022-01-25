@@ -1,0 +1,25 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>Main_CLI</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Exercise11\Exercise11.csproj" />
+    <ProjectReference Include="..\Exercise12\Exercise12.csproj" />
+    <ProjectReference Include="..\Exercise13\Exercise13.csproj" />
+    <ProjectReference Include="..\Exercise14\Exercise14.csproj" />
+    <ProjectReference Include="..\Exercise16\Exercise16.csproj" />
+    <ProjectReference Include="..\Exercise17\Exercise17.csproj" />
+    <ProjectReference Include="..\Exercise1\Exercise1.csproj" />
+    <ProjectReference Include="..\Exercise2\Exercise2.csproj" />
+    <ProjectReference Include="..\Exercise3\Exercise3.csproj" />
+    <ProjectReference Include="..\Exercise4\Exercise4.csproj" />
+    <ProjectReference Include="..\Exercise5\Exercise5.csproj" />
+    <ProjectReference Include="..\Exercise6\Exercise6.csproj" />
+    <ProjectReference Include="..\Exercise7\Exercise7.csproj" />
+  </ItemGroup>
+
+</Project>

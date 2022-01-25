@@ -1,0 +1,12 @@
+C:\Users\souvikdas02\source\repos\MyAssignments\Exercise2\bin\Debug\net5.0\Exercise2.deps.json
+C:\Users\souvikdas02\source\repos\MyAssignments\Exercise2\bin\Debug\net5.0\Exercise2.dll
+C:\Users\souvikdas02\source\repos\MyAssignments\Exercise2\bin\Debug\net5.0\ref\Exercise2.dll
+C:\Users\souvikdas02\source\repos\MyAssignments\Exercise2\bin\Debug\net5.0\Exercise2.pdb
+C:\Users\souvikdas02\source\repos\MyAssignments\Exercise2\obj\Debug\net5.0\Exercise2.csproj.AssemblyReference.cache
+C:\Users\souvikdas02\source\repos\MyAssignments\Exercise2\obj\Debug\net5.0\Exercise2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\souvikdas02\source\repos\MyAssignments\Exercise2\obj\Debug\net5.0\Exercise2.AssemblyInfoInputs.cache
+C:\Users\souvikdas02\source\repos\MyAssignments\Exercise2\obj\Debug\net5.0\Exercise2.AssemblyInfo.cs
+C:\Users\souvikdas02\source\repos\MyAssignments\Exercise2\obj\Debug\net5.0\Exercise2.csproj.CoreCompileInputs.cache
+C:\Users\souvikdas02\source\repos\MyAssignments\Exercise2\obj\Debug\net5.0\Exercise2.dll
+C:\Users\souvikdas02\source\repos\MyAssignments\Exercise2\obj\Debug\net5.0\ref\Exercise2.dll
+C:\Users\souvikdas02\source\repos\MyAssignments\Exercise2\obj\Debug\net5.0\Exercise2.pdb
